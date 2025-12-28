@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ShafiqulIslamShamim&label=Profile%20views&color=0e75b6&style=flat" alt="ShafiqulIslamShamim" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShafiqulIslamShamim&theme=onedark&row=1&column=6" alt="ShafiqulIslamShamim" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
